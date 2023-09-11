@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\joesl\\Desktop\\IngSoftII\\bd-linea-blanca",
+  "node.version": "v18.17.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\joesl\\Desktop\\IngSoftII\\bd-linea-blanca\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\joesl\\Desktop\\IngSoftII\\bd-linea-blanca\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\joesl\\Desktop\\IngSoftII\\bd-linea-blanca\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\joesl\\Desktop\\IngSoftII\\bd-linea-blanca\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\joesl\\Desktop\\IngSoftII\\bd-linea-blanca\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\joesl\\Desktop\\IngSoftII\\bd-linea-blanca\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
